@@ -40,7 +40,7 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: adityasaini70
+    twitter: adi_saini
     github: adityasaini70
     linkedin: adityasaini-iiitd
     instagram: metronomous
